@@ -28,7 +28,7 @@ Installation
 
     bash
 
-    git clone https://github.com/yourusername/watchapp.git
+https://github.com/elonmasai7/wearable/.git
 
     Open the project in Android Studio.
 
